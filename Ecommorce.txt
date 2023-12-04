@@ -6,3 +6,7 @@ upi id
 creadit card 
 debit card
 cloth
+Payment tpye
+online 
+offline
+paytm
