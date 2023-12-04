@@ -5,3 +5,4 @@ payment mode
 upi id
 creadit card 
 debit card
+cloth
